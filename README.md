@@ -1,4 +1,4 @@
-# **Built and trained a deep neural network model which can classify road traffic signs, using Tensorflow **
+# **Built and trained a deep neural network model which can classify road traffic signs, using Tensorflow**
 
 This is a project for Udacity Self-Driving Car Nanodegree program. In this project I built and trained a convolutional neural network(CNN) to classify road traffic signs, using TensorFlow. The implementation of the project is in the file `Traffic_Sign_Classifier_RyanKang.ipynb `. 
 
